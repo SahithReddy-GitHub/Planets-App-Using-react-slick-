@@ -1,0 +1,25 @@
+* {
+  font-family: 'roboto';
+  padding: 0px;
+  margin: 0px;
+}
+.slider-container {
+  background-color: #419be0;
+  padding: 40px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 700px;
+  background-image: url('https://assets.ccbp.in/frontend/react-js/planets-app/planets-bg-img.png');
+  height: 80vh;
+  background-size: cover;
+}
+h3 {
+  color: red;
+}
+
+.main-head {
+  font-size: 28px;
+  color: #05acff;
+  line-height: 4;
+  text-align: center;
+}
